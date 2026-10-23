@@ -1,3 +1,5 @@
+print("BIODATA DIRI")
+
 nama = "Shifa Maryam Qanita"
 nim = "2601010016"
 prodi = "Sistem Informasi"
@@ -7,3 +9,4 @@ print(f"Nama  : { nama }")
 print(f"NIM   : { nim }")
 print(f"Prodi : { prodi }")
 print(f"Hobi  : { hobies }")
+
